@@ -9,7 +9,7 @@ This webpage contains all the lecture slides and notes of the ACM Summer School 
 - Introductory Talks on Sorting & Searching
 
 ### Slides:
-- [Sorting & Searching](https://acmschoolisi.github.io/Day%201/acm-lecture%202018.pdf) By Subhas Nandy
+- [Sorting & Searching](https://acmschoolisi.github.io/Day%201/acm-lecture%202018.pdf)
 
 ### Notes:
 - [Notes](https://acmschoolisi.github.io/Day%201/Day%201%20Notes.pdf)
