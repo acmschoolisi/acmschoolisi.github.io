@@ -15,6 +15,7 @@ This webpage contains all the lecture slides and notes of the ACM Summer School 
 - [Notes](https://acmschoolisi.github.io/Day%201/Day%201%20Notes.pdf)
 
 
+
 ## Day 2
 
 ### Topics Covered:
@@ -27,6 +28,7 @@ This webpage contains all the lecture slides and notes of the ACM Summer School 
 
 ### Notes:
 - [Notes](https://acmschoolisi.github.io/Day%202/Day%202%20Notes.pdf)
+
 
 
 ## Day 3
@@ -43,6 +45,7 @@ This webpage contains all the lecture slides and notes of the ACM Summer School 
 - [Notes](https://acmschoolisi.github.io/Day%203/Day%203%20Notes.pdf)
 
 
+
 ## Day 4
 
 ### Topics Covered:
@@ -51,6 +54,7 @@ This webpage contains all the lecture slides and notes of the ACM Summer School 
 
 ### Slides:
 - [Different Candidates for MAC (same as Day 3)](https://acmschoolisi.github.io/Day%203/MAC-talk.pptx)
+
 
 
 ## Day 5
@@ -70,6 +74,7 @@ This webpage contains all the lecture slides and notes of the ACM Summer School 
 - [C Code for Salsa](https://github.com/acmschoolisi/acmschoolisi.github.io/blob/master/Day%205/Salsa.c)
 
 
+
 ## Day 6
 
 ### Topics Covered:
@@ -81,9 +86,9 @@ This webpage contains all the lecture slides and notes of the ACM Summer School 
 - [Function Encryption](https://acmschoolisi.github.io/Day%206/ADMA-June-2018-fe-isi%20(1).pdf)
 - [Broadcast Encryption & Attribute Based Encryption](https://acmschoolisi.github.io/Day%206/ACMSCHOOL%20(2).pdf)
 
-
 ### Notes:
 - [Notes](https://acmschoolisi.github.io/Day%206/ACM%20Day%206%20Notes.pdf)
+
 
 
 ## Day 7
@@ -93,6 +98,7 @@ This webpage contains all the lecture slides and notes of the ACM Summer School 
 
 ### Notes:
 Coming Soon!
+
 
 
 ## Day 8
@@ -105,6 +111,7 @@ Coming Soon!
 Coming Soon!
 
 
+
 ## Day 9
 
 ### Topics Covered:
@@ -112,6 +119,7 @@ Coming Soon!
 
 ### Notes:
 Coming Soon!
+
 
 
 ## Day 10
@@ -130,6 +138,7 @@ Coming Soon!
 - [The Combination Lemma For curves](https://acmschoolisi.github.io/Day%2010/scan_05.pdf)
 
 
+
 ## Day 11
 
 ### Topics Covered:
@@ -142,6 +151,7 @@ Coming Soon!
 
 ### Notes:
 Coming Soon! 
+
 
 
 ## Day 12
@@ -157,6 +167,7 @@ Coming Soon!
 Coming Soon!
 
 
+
 ## Day 13 & 14
 
 ### Topics Covered:
@@ -164,6 +175,7 @@ Coming Soon!
 
 ### Slides:
 Coming Soon!
+
 
 
 ## Day 15
