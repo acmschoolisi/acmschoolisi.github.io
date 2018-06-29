@@ -3,10 +3,12 @@
 This webpage contains all the lecture slides and notes of the ACM Summer School on Fundamentals for Cryptology Research held at Indian Statistical Institute, Kolkata from 4th June to 22nd June, 2018. 
 
 Some Markdown text with <span style="color:blue">some *blue* text</span>.
-
-<span style="color:blue">
+```diff
++ this will be highlighted in green
+- this will be highlighted in red
+```
 ## Day 1 
-</span> 
+
 
 ### Topics Covered:
 - Introduction to Cryptology 
