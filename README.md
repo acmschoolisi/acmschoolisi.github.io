@@ -1,6 +1,6 @@
 #  **Fundamentals for Cryptology Research At ISI, Kolkata (4th June to 22nd June, 2018)**
 
-This webpage contains all the lecture slides and notes of the ACM Summer School on Fundamentals for Cryptology Research held at Indian Statistical Institute, Kolkata from 4th June to 22nd June, 2018. 
+This webpage contains all the lecture slides and notes of the **ACM Summer School on Fundamentals for Cryptology Research** held at **Indian Statistical Institute, Kolkata** from 4th June to 22nd June, 2018. 
 
 ## Day 1 
 
@@ -14,7 +14,7 @@ This webpage contains all the lecture slides and notes of the ACM Summer School 
 ### Notes:
 - [Notes](https://acmschoolisi.github.io/Day%201/Day%201%20Notes.pdf)
 
-
+----
 
 ## Day 2
 
@@ -29,7 +29,7 @@ This webpage contains all the lecture slides and notes of the ACM Summer School 
 ### Notes:
 - [Notes](https://acmschoolisi.github.io/Day%202/Day%202%20Notes.pdf)
 
-
+----
 
 ## Day 3
 
@@ -44,7 +44,7 @@ This webpage contains all the lecture slides and notes of the ACM Summer School 
 ### Notes:
 - [Notes](https://acmschoolisi.github.io/Day%203/Day%203%20Notes.pdf)
 
-
+----
 
 ## Day 4
 
@@ -55,7 +55,7 @@ This webpage contains all the lecture slides and notes of the ACM Summer School 
 ### Slides:
 - [Different Candidates for MAC (same as Day 3)](https://acmschoolisi.github.io/Day%203/MAC-talk.pptx)
 
-
+----
 
 ## Day 5
 
@@ -73,7 +73,7 @@ This webpage contains all the lecture slides and notes of the ACM Summer School 
 - [C Code for RC4](https://github.com/acmschoolisi/acmschoolisi.github.io/blob/master/Day%205/RC4.c)
 - [C Code for Salsa](https://github.com/acmschoolisi/acmschoolisi.github.io/blob/master/Day%205/Salsa.c)
 
-
+----
 
 ## Day 6
 
@@ -89,7 +89,7 @@ This webpage contains all the lecture slides and notes of the ACM Summer School 
 ### Notes:
 - [Notes](https://acmschoolisi.github.io/Day%206/ACM%20Day%206%20Notes.pdf)
 
-
+----
 
 ## Day 7
 
@@ -99,7 +99,7 @@ This webpage contains all the lecture slides and notes of the ACM Summer School 
 ### Notes:
 Coming Soon!
 
-
+----
 
 ## Day 8
 
@@ -110,7 +110,7 @@ Coming Soon!
 ### Notes:
 Coming Soon!
 
-
+----
 
 ## Day 9
 
@@ -120,7 +120,7 @@ Coming Soon!
 ### Notes:
 Coming Soon!
 
-
+----
 
 ## Day 10
 
@@ -137,7 +137,7 @@ Coming Soon!
 - [Many Faces Complexity](https://acmschoolisi.github.io/Day%2010/scan_01%20(2).pdf)
 - [The Combination Lemma For curves](https://acmschoolisi.github.io/Day%2010/scan_05.pdf)
 
-
+----
 
 ## Day 11
 
@@ -152,7 +152,7 @@ Coming Soon!
 ### Notes:
 Coming Soon! 
 
-
+----
 
 ## Day 12
 
@@ -166,7 +166,7 @@ Coming Soon!
 ### Notes:
 Coming Soon!
 
-
+----
 
 ## Day 13 & 14
 
@@ -176,7 +176,7 @@ Coming Soon!
 ### Slides:
 Coming Soon!
 
-
+----
 
 ## Day 15
 
