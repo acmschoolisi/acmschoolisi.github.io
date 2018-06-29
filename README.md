@@ -2,9 +2,16 @@
 
 This webpage contains all the lecture slides and notes of the ACM Summer School on Fundamentals for Cryptology Research held at Indian Statistical Institute, Kolkata from 4th June to 22nd June, 2018. 
 
-## Day 1 - Introduction to Cryptology, Introductory Talks on Sorting & Searching
-- [Slide](https://acmschoolisi.github.io/Day%201/acm-lecture%202018.pdf)
+## Day 1 
+
+### Topics Covered:
+- Introduction to Cryptology 
+- Introductory Talks on Sorting & Searching
+
+### Slides & Notes:
+- [Slides - Sorting & Searching](https://acmschoolisi.github.io/Day%201/acm-lecture%202018.pdf)
 - [Notes](https://acmschoolisi.github.io/Day%201/Day%201%20Notes.pdf)
+
 
 ## Day 2
 - [Slide - Understanding Symmetric Key Cryptography](https://acmschoolisi.github.io/Day%202/Crypto.pdf)
