@@ -4,7 +4,7 @@ This webpage contains all the lecture slides and notes of the ACM Summer School 
 
 Some Markdown text with <span style="color:blue">some *blue* text</span>.
 
-## Day 1 
+<span style="color:blue">## Day 1 </span> 
 
 ### Topics Covered:
 - Introduction to Cryptology 
